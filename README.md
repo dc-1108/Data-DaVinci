@@ -2,6 +2,8 @@
 
 Welcome to the **Data DaVinci**! This repository contains code, resources, and materials to guide you through foundational machine learning concepts. Each week focuses on a specific machine learning technique or analysis method, building skills for real-world data analysis.
 
+
+Lets add deadline to everyweek to maintain good work ethics
 ---
 
 ## [Week 0](./Week%200/): Introduction and Python Basics
